@@ -6,6 +6,7 @@
 # User-specific files
 PhoneBook.sln
 PhoneBook/PhoneBook.csproj
+
 *.rsuser
 *.suo
 *.user
